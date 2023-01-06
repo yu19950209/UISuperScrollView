@@ -1,11 +1,5 @@
 # UISuperScrollView 针对CocosCreator2.x cc.ScrollView做的优化 
 
-[新版在这里,支持2.x 3.x 支持更多功能](https://store.cocos.com/app/detail/3326)
-
-[在线演示效果](https://icipiqkm.github.io/UISuperScrollView/)
-
-[Cocos论坛地址](http://forum.cocos.org/t/cocos-creator-scrollview-uisuperscrollview/99891)
-
 
 
 
@@ -23,7 +17,3 @@
 * UISuperLayout.resetScrollView 重置列表 当列表滑动到底部时 然后不管通过什么方式(同步|异步)减少了整体的(尺寸|缩放) 时保证内容显示正确
 * 喜欢的话别忘记点个 Star 谢谢
 
-# 撸码不易 手头宽裕打个赏 谢谢
-
-<img src="https://icipiqkm.github.io/image/photo_2021-08-02_00-42-34.jpg" width="357">
-<img src="https://icipiqkm.github.io/image/photo_2021-08-02_00-43-03.jpg" width="357">
